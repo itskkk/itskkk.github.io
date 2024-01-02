@@ -1,8 +1,12 @@
+---
+layout: page
+---
+
 # About Me
 
 Here is **Kang Wang (Cris, 王康)**.
 
-Graduate student at University of Science and Technology of China (USTC) in Hefei, Anhui, China.
+Graduate student at University of Science and Technology of China (USTC)
 
 ------
 
@@ -19,3 +23,4 @@ Graduate student at University of Science and Technology of China (USTC) in Hefe
 - Material structure design
 - Bionic design and strong and tough design
 - Computational materials science
+
