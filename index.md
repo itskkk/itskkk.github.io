@@ -6,7 +6,7 @@ layout: page
 
 Here is **Kang Wang (Cris, 王康)**.
 
-Graduate student at University of Science and Technology of China (USTC)
+Graduate student at University of Science and Technology of China.
 
 ------
 
