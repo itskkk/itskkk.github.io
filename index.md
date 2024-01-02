@@ -13,7 +13,12 @@ Graduate student at University of Science and Technology of China.
 ## Academic Background
 
 - **Sep 2024 - Present:** Department of Modern Mechanics, University of Science and Technology of China
+
+  *Supervisor: Prof. Hengan wu And Prof. Yinbo Zhu*
+
 - **Sep 2020 - June 2024:** Department of engineering mechanics, Hunan University (BEng)
+
+  *Supervisor: Prof. Yiru Ren*
 
 ---
 
