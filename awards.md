@@ -16,11 +16,26 @@ Lastest Update: 1st Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://it
 ## Competitions
 
 - Aug 2023: The 14th Zhou Peiyuan College Students Mechanics Competition (individual competition) **First Prize** <br>
-- Jun 2023: The 20th Hunan University Students Mechanics Competition **First Prize** <br>
-- Apr 2023: The 20th Hunan University Learning Competition **Outstanding Prize**<br>
-- Dec 2022: The 19th Hunan University Students Mechanics Competition **Second Prize**<br>
-- Sep. 2022: The 19th Hunan University Mechanics Competition **First Prize** <br>
-- Jul 2022: The 13th Zhou Peiyuan College Student Mechanics Competition (team Competition) **Excellence Award**
+
+- Jun 2023: The 20th Hunan University Students Mechanics Competition 
+
+  **First Prize** <br>
+
+- Apr 2023: The 20th Hunan University Learning Competition 
+
+  **Outstanding Prize**<br>
+
+- Dec 2022: The 19th Hunan University Students Mechanics Competition 
+
+  **Second Prize**<br>
+
+- Sep. 2022: The 19th Hunan University Mechanics Competition 
+
+  **First Prize** <br>
+
+- Jul 2022: The 13th Zhou Peiyuan College Student Mechanics Competition (team Competition)
+
+  **Excellence Award**
 
 ## Research fundings
 
