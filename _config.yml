@@ -9,7 +9,7 @@ owner:
   name: Kang Wang
   avatar: wangk.png
   email: itsk0916@gmail.com
-  cv: https://itskkk.github.io/file/CV-WangK.pdf
+  #cv: https://itskkk.github.io/file/CV-WangK.pdf
   twitter: itsk76456223
   github: itskkk
   #scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
@@ -23,8 +23,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  #- title: Awards
-    #url: /awards/
+  - title: Awards
+    url: /awards/
   #- title: Related Links
     #url: /links/
 
