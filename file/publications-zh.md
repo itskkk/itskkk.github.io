@@ -16,4 +16,4 @@ title: Publications-zh
 
 - 孪晶界对纳米文石碳酸钙力学行为作用机制的分子动力学研究<br>**王康**，任毅如（指导老师）<br>本科毕业设计论文<br>
 
-更新时间：2024/01/01 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
+更新时间：2024/01/01 &nbsp;  [English Version (英文)](https://itskkk.github.io/publications/)

@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 1st Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: 1st Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://itskkk.github.io/file/publications-zh/)
 
 ## Journal Paper
 
