@@ -24,8 +24,10 @@ Lastest Update: 1st Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://it
 
 ## Research fundings
 
-- Integrated crushing/pyrolysis plant for the recovery of carbon fiber composites Aug 2021-Aug 2023 <br>
+- Integrated crushing/pyrolysis plant for the recovery of carbon fiber composites
 
+   Aug 2021-Aug 2023 <br>
+  
   Hunan University Innovation and Entrepreneurship Project -**National** (¥5000) Project leader
 
 ## Honors

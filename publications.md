@@ -8,7 +8,7 @@ Lastest Update: 1st Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://its
 
 ## Journal Paper
 
-- **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity** (Under Review)<br>**Kang Wang**, *Yiru Ren*<br>International Journal of Crashworthiness, Taylor& Francis<br>
+- **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity** (*Under Review*)<br>**Kang Wang**, *Yiru Ren*<br>International Journal of Crashworthiness, Taylor& Francis<br>
 
 ---
 
