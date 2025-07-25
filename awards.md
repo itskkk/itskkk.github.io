@@ -4,10 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 1st Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://itskkk.github.io/file/awards-zh/)
+Lastest Update: 25st Jul 2025 &nbsp; [中文版本 (Chinese Version)](https://itskkk.github.io/file/awards-zh/)
 
 ## Scholarships
 
+- Dec 2024: University of Science and Technology of China **First-class Scholarship** (¥12000) <br>
 - Dec 2023: Hunan University **First-class Scholarship** (¥3000) <br>
 - Sep 2022: Hunan University **Liji Scholarship** (¥5000) <br>
 - Sep 2022: Hunan University **Second-class Scholarship** (¥2000) <br>
@@ -15,7 +16,9 @@ Lastest Update: 1st Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://it
 
 ## Competitions
 
-- Aug 2023: The 14th Zhou Peiyuan College Students Mechanics Competition (individual competition) **First Prize** <br>
+- Aug 2023: The 14th Zhou Peiyuan College Students Mechanics Competition (individual competition)
+
+  **First Prize** <br>
 
 - Jun 2023: The 20th Hunan University Students Mechanics Competition 
 
@@ -43,8 +46,10 @@ Lastest Update: 1st Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://it
 
    Aug 2021-Aug 2023 <br>
   
-  Hunan University Innovation and Entrepreneurship Project -**National** (¥5000) Project leader
+  Hunan University Innovation and Entrepreneurship Project
+
+  **National** (¥5000) Project leader
 
 ## Honors
 
-- Coming soon...<br>
+- Aug 2024: Outstanding Graduate of Hunan University <br>
