@@ -16,7 +16,7 @@ Graduate student at University of Science and Technology of China. Currently, I 
 
   Supervisor: *Prof. Hengan Wu And Prof. Yinbo Zhu*
 
-- **Sep 2020 - June 2024:** Department of engineering mechanics, Hunan University (BEng)
+- **Sep 2020 - Jun 2024:** Department of engineering mechanics, Hunan University (BEng)
 
   Supervisor: *Prof. Yiru Ren*
 
