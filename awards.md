@@ -20,19 +20,19 @@ Lastest Update: 25st Jul 2025 &nbsp; [中文版本 (Chinese Version)](https://i
 
   **First Prize** <br>
 
-- Jun 2023: The 20th Hunan University Students Mechanics Competition 
+- Jun 2023: The 20th Mechanics Competition for College Students of Hunan Province
 
   **First Prize** <br>
 
-- Apr 2023: The 20th Hunan University Learning Competition 
+- Apr 2023: The 20th Hunan University Students Mechanics Competition 
 
   **Outstanding Prize**<br>
 
-- Dec 2022: The 19th Hunan University Students Mechanics Competition 
+- Dec 2022: The 19th Mechanics Competition for College Students of Hunan Province 
 
   **Second Prize**<br>
 
-- Sep. 2022: The 19th Hunan University Mechanics Competition 
+- Sep. 2022: The 19th Hunan University Students Mechanics Competition
 
   **First Prize** <br>
 
