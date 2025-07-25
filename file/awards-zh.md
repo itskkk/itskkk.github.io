@@ -6,6 +6,7 @@ title: Awards-zh
 
 ## 综合奖学金
 
+- 2024年12月：中国科大一等奖学金 （¥12000）<br>
 - 2023年12月：湖南大学一等奖学金 （¥3000）<br>
 - 2022年09月：湖南大学立极奖学金 （¥5000）<br>
 - 2022年09月：湖南大学二等奖学金 （¥2000）<br>
@@ -30,6 +31,6 @@ title: Awards-zh
 
 ## 综合荣誉
 
-- Coming soon... <br>
+- 2024年8月：湖南大学优秀毕业生 <br>
 
-更新时间：2024/01/01 &nbsp; [English Version (英文)](https://itskkk.github.io/awards/)
+更新时间：2025/07/25 &nbsp; [English Version (英文)](https://itskkk.github.io/awards/)
