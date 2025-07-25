@@ -24,4 +24,4 @@ Lastest Update: 1st Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://its
 
 ## Dissertation
 
-- Molecular dynamics study of the mechanism of twin boundaries on the mechanical behavior of Nano-Aragonite calcium carbonate<br>**Kang Wang** (Advisor: Yiru Ten). Under working<br>Undergraduate thesis.
+- Molecular dynamics study of the mechanism of twin boundaries on the mechanical behavior of Nano-Aragonite calcium carbonate<br>**Kang Wang** (Advisor: Yiru Ren). Under working<br>Undergraduate thesis.
