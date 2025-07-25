@@ -4,12 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 1st Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://itskkk.github.io/file/publications-zh/)
+Lastest Update: 25st Jul 2025&nbsp;  [中文版本 (Chinese Version)](https://itskkk.github.io/file/publications-zh/)
 
 ## Journal Paper
 
 - 1. **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity** (*Accepted*)<br>**Kang Wang**, *Yiru Ren*<br>International Journal of Crashworthiness, 2025. **. ****.()<br>
-- 2. **Amorphization-mediated **** ** (*To be submitted*)<br>**Kang Wang**, *HengAn Wu*, *Yinbo Zhu* <br>****, 2025. **. ****.()<br>
+- 2. **Amorphization-mediated....** (*To be submitted*)<br> **Kang Wang**, *HengAn Wu*, *Yinbo Zhu* <br> ****, 2025. **. ****.()<br>
 
 ---
 
@@ -31,4 +31,4 @@ Lastest Update: 1st Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://its
 
 ## Dissertation
 
-- Molecular dynamics study of the mechanism of twin boundaries on the mechanical behavior of Nano-Aragonite calcium carbonate<br>**Kang Wang** (Advisor: Yiru Ren). Under working<br>Undergraduate thesis.
+- Molecular dynamics study of the mechanism of twin boundaries on the mechanical behavior of Nano-Aragonite calcium carbonate<br>**Kang Wang** (Advisor: Yiru Ren). <br> Bachelor's Degree Thesis in Engineering.
