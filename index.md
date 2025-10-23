@@ -6,7 +6,7 @@ layout: page
 
 Here is **Kang Wang (Cris, 王康)**.
 
-Graduate student at University of Science and Technology of China. Currently, I am studying and researching in *Computational Mechanics and Engineering Laboratory* (CME) under the guidance of *[Professor Hengan Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4lTQbMAAAAJ)* and *[Professor Yinbo Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=0IIXHuMAAAAJ)*. My research area is the design of *Nano Mechanics of Amorphous Carbon*.
+Graduate student at University of Science and Technology of China. Currently, I am studying and researching in *Computational Mechanics and Engineering Laboratory* (CME) under the guidance of *[Professor Yinbo Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=0IIXHuMAAAAJ)* and *[Professor Hengan Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=X4lTQbMAAAAJ)*. My research area is the design of *Nano Mechanics of Amorphous Carbon*.
 
 ------
 
