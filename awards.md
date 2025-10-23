@@ -4,10 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 25st Jul 2025 &nbsp; [中文版本 (Chinese Version)](https://itskkk.github.io/file/awards-zh/)
+Lastest Update: 23rd Oct 2025 &nbsp; [中文版本 (Chinese Version)](https://itskkk.github.io/file/awards-zh/)
 
 ## Scholarships
 
+- Oct 2025: University of Science and Technology of China **Second-class Scholarship** (¥11000) <br>
 - Dec 2024: University of Science and Technology of China **First-class Scholarship** (¥12000) <br>
 - Dec 2023: Hunan University **First-class Scholarship** (¥3000) <br>
 - Sep 2022: Hunan University **Liji Scholarship** (¥5000) <br>
