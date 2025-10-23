@@ -9,7 +9,7 @@ title: Publications-zh
 - Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity. (Accepted). International Journal of Crashworthiness, 2025. . **.() <br>
 - **Kang Wang**, YiRu Ren <br>
 - Mechanical Amorphization-Mediated Self-Healing of Fractured Diamond. (Accepted). ACS Materials Letters, 2026. . **.() <br>
-- **Kang Wang**, HengAn Wu, Yinbo Zhu <br>
+- **Kang Wang**, HengAn Wu, YinBo Zhu <br>
 
 ## 课程论文
 
