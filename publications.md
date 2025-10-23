@@ -4,12 +4,12 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 25st Jul 2025&nbsp;  [中文版本 (Chinese Version)](https://itskkk.github.io/file/publications-zh/)
+Lastest Update: 23rd Oct 2025&nbsp;  [中文版本 (Chinese Version)](https://itskkk.github.io/file/publications-zh/)
 
 ## Journal Paper
 
-- **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity** (*Accepted*)<br>**Kang Wang**, *Yiru Ren*<br>International Journal of Crashworthiness, 2025. **. ****.()<br>
-- **Amorphization-mediated....** (*To be submitted*)<br> **Kang Wang**, *HengAn Wu*, *Yinbo Zhu* <br> ****, 2025. **. ****.()<br>
+- **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity.** (*Accepted*)<br>**Kang Wang**, *Yiru Ren*<br>International Journal of Crashworthiness, 2025. **. ****.()<br>
+- **Mechanical Amorphization-Mediated Self-Healing of Fractured Diamond.** (*Accepted*)<br> **Kang Wang**, *HengAn Wu*, *Yinbo Zhu* <br> ACS Materials Letters, 2026. **. ****.()<br>
 
 ---
 
