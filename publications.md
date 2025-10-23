@@ -8,8 +8,8 @@ Lastest Update: 23rd Oct 2025&nbsp;  [中文版本 (Chinese Version)](https://it
 
 ## Journal Paper
 
-- **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity.** (*Accepted*)<br>**Kang Wang**, *Yiru Ren*<br>International Journal of Crashworthiness, 2025. **. ****.()<br>
-- **Mechanical Amorphization-Mediated Self-Healing of Fractured Diamond.** (*Accepted*)<br> **Kang Wang**, *HengAn Wu*, *Yinbo Zhu* <br> ACS Materials Letters, 2026. **. ****.()<br>
+- **Energy absorption performance of multi-cell hexagonal tube with hierarchical self-similarity.** (*Accepted*)<br>**Kang Wang**, *YiRu Ren*<br>International Journal of Crashworthiness, 2025. **. ****.()<br>
+- **Mechanical Amorphization-Mediated Self-Healing of Fractured Diamond.** (*Accepted*)<br> **Kang Wang**, *HengAn Wu*, *YinBo Zhu* <br> ACS Materials Letters, 2026. **. ****.()<br>
 
 ---
 
